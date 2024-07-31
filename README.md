@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/emmaenyo">Programmer</a>, <a href="https://www.linkedin.com/in/emmanuelenyo/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/emmaenyo">Programmer</a>, <a href="https://www.linkedin.com/in/emmanuelenyo/">Data Analyst</a>, <a href="https://www.youtube.com/@strollin4k">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
