@@ -1,3 +1,1 @@
-<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuelenyo/">Data Scientist</a>, <a>Data Analyst</a> , Web Speclaist and IT Technician </h1>
-
-<h2>👨‍💻 Please visit my <a href="https://emmaenyo.com"/> official website</a>  for information on my projects or about me :)</h2>
+This research project explored the use of deep learning techniques to detect Autism Spectrum Disorder (ASD) using 3D brain MRI data from the publicly available ABIDE dataset. The dataset consisted of 547 ASD and 617 control .nii-formatted MRI scans, which were preprocessed by resizing to a uniform shape and normalizing voxel intensities. To address class imbalance and enhance generalization, TensorFlow-based data augmentation was applied at a 3:1 ratio on the training set, resulting in a significantly expanded dataset for model training.
